@@ -1,7 +1,7 @@
 # 💫 About Me:
 ⚡ 15+ years of extensive IT experience in the field of Data Analysis. Strong expertise in Project/Program Management, Business and Data Analysis, Data Mining, and Data Profiling. Proven expertise in working on customer-facing roles and employing techniques in managing cross-functional teams for multiple large/medium projects and delivering high-quality outcomes on time and within the budget. 
 
-I'm currently working on Python projects in Web Scraping, Data Cleaning & Visualization, Machine Learning etc. <br>I'm looking to develop my coding skills in Web development using Python and Machine Learning. 
+I'm currently working on Python projects in Web Scraping, Data Cleaning & Visualization, Machine Learning etc. <br>I'm looking to develop my coding skills in Web development and Machine Learning using Python. 
 
 <br> 😄 Pronouns: She/her<br>
 
