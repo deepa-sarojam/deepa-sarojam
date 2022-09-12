@@ -1,9 +1,19 @@
 # 💫 About Me:
+15+ years of extensive IT experience in the field of Data Analysis. Strong expertise in Project/Program Management, Business and Data Analysis, Data Mining, and Data Profiling. Proven expertise in working on customer-facing roles and employing techniques in managing cross-functional teams for multiple large/medium projects and delivering high-quality outcomes on time and within the budget. 
+
 I'm currently working on Python projects in Web Scraping, Data Cleaning & Visualization, Machine Learning etc. <br>I'm looking to develop my coding skills in Web development using Python and Machine Learning. 
 
-<br> 📫 Reach me @ dsarojam2021@gmail.com<br>
-
 <br> 😄 Pronouns: She/her<br>
+
+📕 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+- [Web Scraping Popular Movies using BeautifulSoup](https://blog.jovian.ai/web-scraping-popular-movies-using-beautifulsoup-5bab0852fee4)
+- [Exploratory Data Analysis (EDA) on Police Violence In the United States](https://blog.jovian.ai/a-study-on-police-violence-in-united-states-36b552e9ab27)
+- [Predicting the Success of Online Ads using Machine Learning](https://blog.jovian.ai/machine-learning-project-on-predicting-deal-probability-for-online-ads-ed0a60b37671)
+- [Data Visualization using Folium](https://blog.jovian.ai/data-visualization-using-folium-6d13da0c7a2c)
+- [Web Scraping Using Selenium](https://blog.jovian.ai/web-scraping-using-selenium-2a3ffa1f03f4)
+<!-- BLOG-POST-LIST:END -->
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/4821) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepa-sarojam) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@deepa-sarojam) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Deepa_Sarojam) 
