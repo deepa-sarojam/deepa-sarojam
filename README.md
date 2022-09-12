@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Python projects in Web Scraping, Data Cleaning & Visualization, Machine Learning etc. <br>I'm looking to develop my coding skills in Web development using Python and Machine Learning skills. 
+I'm currently working on Python projects in Web Scraping, Data Cleaning & Visualization, Machine Learning etc. <br>I'm looking to develop my coding skills in Web development using Python and Machine Learning. 
 
 <br> 📫 Reach me @ dsarojam2021@gmail.com<br>
 
