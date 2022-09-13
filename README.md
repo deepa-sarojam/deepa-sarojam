@@ -5,8 +5,6 @@
 
 <br> 😄 Pronouns: She/her<br>
 <br> 🎯 Status: Open to FTE openings only. 
-<br> 🛂 Visa: H1B (Need sponsorship) 
-<br> 😄 Pronouns: She/her<br>
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
