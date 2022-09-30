@@ -1,7 +1,7 @@
 # 💫 About Me:
-⚡ I'm currently working on Python projects in Web Scraping, Data Cleaning & Visualization, Machine Learning etc. 
+⚡ I'm currently working on Python projects in Web Scraping, Data Cleaning, Data Visualization, Machine Learning etc. 
 
-<br>🚀 I'm looking to develop my coding skills in Web development and Machine Learning using Python. 
+🚀 I'm looking to advance my skills in Machine Learning and Deep Learning using Python. 
 
 <br> 😄 Pronouns: She/her<br>
 <br> 🎯 Status: Open to FTE openings only. No Contract roles. 
