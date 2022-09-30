@@ -4,7 +4,7 @@
 <br>🚀 I'm looking to develop my coding skills in Web development and Machine Learning using Python. 
 
 <br> 😄 Pronouns: She/her<br>
-<br> 🎯 Status: Open to FTE openings only. 
+<br> 🎯 Status: Open to FTE openings only. No Contract roles. 
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
