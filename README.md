@@ -1,7 +1,7 @@
 # 💫 About Me:
 ⚡ I'm currently working on Python projects in Web Scraping, Data Cleaning, Data Visualization, Machine Learning etc. 
 
-🚀 I'm looking to advance my skills in Machine Learning and Deep Learning using Python. 
+🚀 I'm looking to advance my skills in Machine Learning and Deep Learning. 
 
 <br> 😄 Pronouns: She/her<br>
 <br> 🎯 Status: Open to FTE openings only. No Contract roles. 
@@ -26,7 +26,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=deepa-sarojam&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepa-sarojam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
